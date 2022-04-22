@@ -9,7 +9,7 @@ Rectificativa de Venta:
 Factura de Compra:
 Rectificativa de Compra:
 ```
-# 1 - Inventario a fecha con costes.
+# 2 - Inventario a fecha con costes.
 ```
 codigo, coste, cantidad, almacen, ubicacion
 100,23,12,001,001001
